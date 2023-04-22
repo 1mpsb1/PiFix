@@ -50,5 +50,3 @@ sudo apt-get upgrade -y
 echo "Перезагрузка системы..."
 sudo -i
 sudo reboot
-else
-echo "Ошибка"
